@@ -1,0 +1,117 @@
+.part1 {
+    margin: auto;
+    width: 1200px;
+    height: 276px;
+    border: 3px solid #e7e7e7;
+    border-width: 0 3px 3px 3px;
+    overflow-y: scroll;
+}
+
+.part2 {
+    margin: auto;
+    margin-top: 10px;
+    width: 1200px;
+    height: 120px;
+    border-radius: 1px;
+    background: #f1f1f1;
+}
+
+.part3 {
+    margin: auto;
+    margin-top: 10px;
+    width: 1200px;
+    height: 50px;
+    border-radius: 1px;
+    background: #eeeeee;
+}
+
+.container-fluid {
+    height: 300px;
+    background-image: url(../image/bg3.png);
+    background-size: cover;
+}
+
+.titin {
+    width: 500px;
+    margin: auto;
+}
+
+.p1 img {
+    width: 55px;
+    height: 55px;
+}
+
+.p1 table {
+    margin-top: 65px;
+}
+
+.p2 {
+    margin-top: 5px;
+}
+
+.p3 {
+    margin-top: 5px;
+}
+
+.sign {
+    font-size: 80%;
+    margin-top: 7px;
+}
+
+.paramK {
+    width: 300px;
+}
+
+.paramN {
+    width: 300px;
+}
+
+.ta0 {
+    width: 600px;
+    margin-top: 15px;
+}
+
+#ta1 {
+    margin-top: 5px;
+    width: 1200px;
+    height: 40px;
+}
+
+#ta2 {
+    width: 1200px;
+    height: 40px;
+}
+
+.part4 {
+    margin: auto;
+    margin-top: 10px;
+    width: 1200px;
+    height: 80px;
+    border-radius: 1px;
+    background: #ececec;
+}
+
+.selectt {
+    margin-left: -110px;
+}
+
+#ta2 {
+    margin-top: 17px;
+}
+
+.opt {
+    height: 75px;
+    width: 850px;
+    margin-left: 350px;
+    margin-top: -45px;
+    overflow-y: scroll;
+}
+
+.result {
+    margin-left: 100px;
+}
+
+.prompt {
+    margin-left: 500px;
+    font-size: 120%;
+}
